@@ -11,34 +11,37 @@
 -->
 ---
 
-## 🧑‍💻 
-A Machine learning engineer
+## 🧑‍💻 About Me
+I'm Machine learning engineer from Russia. 
 
 ---
 
 ## 🎓 Education
-**`[2020-2025]` [Ural Federal University]**  
-*[Bachelor], [Mathematics and Computer Science]*  
+**`[2020-2025]` Ural Federal University**  
+*Bachelor, Mathematics and Computer Science*  
 - Dissertation: "Building a population model"
 - Used neural networks to predict population size; developed a fail-safe system for running experiments.
 
-**`[2024]` [Ural Federal University]**  
-*[Machine learning]*
 ---
 
 ## 🛠️ Tech Stack
 
 ### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org)
 
 ### Data Science:
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) [![CatBoost](https://img.shields.io/badge/-CatBoost-00AEEF?style=flat&logo=catboost&logoColor=white)](https://catboost.ai) [![XGBoost](https://img.shields.io/badge/-XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org) [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+
+### Databases:
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 ### Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ---
 
+<!-- 
 ## 📈 Статистика
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/kastryulya)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact)](https://github.com/kastryulya)
+-->
