@@ -24,24 +24,27 @@ I'm Data Engineer from Russia.
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Additional education
+**`[2026]` Data Processing and Analysis
+with Apache Spark at Yandex Data Processing**  
 
-### Programming Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org)
+- Data Lakehouse implementation in Yandex Cloud based on Delta Lake (Data Processing, MetaData Hub, DataSphere).
+- Development and launch of PySpark applications (Spark Shell, Spark Sql, YARN).
+- Stream data processing (Spark Structured Streaming, Kafka).
+- Orchestration and ETL pipelines (S3, ClickHouse, Apache Airflow).
 
-### Data Science:
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white) [![CatBoost](https://img.shields.io/badge/-CatBoost-00AEEF?style=flat&logo=catboost&logoColor=white)](https://catboost.ai) [![XGBoost](https://img.shields.io/badge/-XGBoost-3776AB?style=flat&logo=xgboost&logoColor=white)](https://xgboost.ai) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org) [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org)
+**`[2026]` Data Mart for Web Analytics in ClickHouse**  
 
-### Databases:
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-### Tools:
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+- Creation of ETL processes (MySQL, ClickHouse, Apache Airflow)
+- Design of data marts and dashboards (ClickHouse, DataLens)
 ---
 
-<!-- 
-## 📈 Статистика
+## 🛠️ Tech Stack
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_ник&show_icons=true&theme=radical)](https://github.com/kastryulya)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_ник&layout=compact)](https://github.com/kastryulya)
--->
+| Category | Technologies |
+|-----------|------------|
+| **Big Data** | [![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)](https://spark.apache.org/) [![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)](https://airflow.apache.org/) [![ClickHouse](https://img.shields.io/badge/-ClickHouse-FFCC00?style=flat&logo=clickhouse&logoColor=black)](https://clickhouse.com/) |
+| **Databases** | [![S3](https://img.shields.io/badge/-S3-569A31?style=flat&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/) [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MS SQL](https://img.shields.io/badge/-MS%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)](https://www.microsoft.com/sql-server) [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](https://mariadb.org/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) |
+| **Programming Languages** | [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/) [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/) [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)](https://www.scala-lang.org/) [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white)](https://ru.wikipedia.org/wiki/SQL) |
+| **Tools** | [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/) [![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/) [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/) [![DataLens](https://img.shields.io/badge/-DataLens-0280D6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi0yaDJ2MnptMC00aC0yVjdoMnY2eiIvPjwvc3ZnPg==&logoColor=white)](https://datalens.yandex.com/) |
+| **Analytics** | [![Loginom](https://img.shields.io/badge/-Loginom-1A5B9D?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi0yaDJ2MnptMC00aC0yVjdoMnY2eiIvPjwvc3ZnPg==&logoColor=white)](https://loginom.ru/) [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel) |
