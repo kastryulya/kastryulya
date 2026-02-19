@@ -2,8 +2,8 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/ulya_kastryulya)
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+79122574656)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:k@stryulya.ru)
-[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?style=flat&logo=hh.ru&logoColor=white)](https://hh.ru/resume/c74d0640ff0f2307c30039ed1f625a4a537876)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ermilina.uliana@yandex.ru)
+[![HH.ru](https://img.shields.io/badge/-HH.ru-FF6600?style=flat&logo=hh.ru&logoColor=white)](https://hh.ru/resume/2b7c1f4aff0f61910d0039ed1f7a4556343235)
 [![VK](https://img.shields.io/badge/-VK-0077FF?style=flat&logo=vk&logoColor=white)](https://vk.com/id_ulay)
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ваш_ник)
@@ -12,7 +12,7 @@
 ---
 
 ## 🧑‍💻 About Me
-I'm Machine learning engineer from Russia. 
+I'm Data Engineer from Russia. 
 
 ---
 
